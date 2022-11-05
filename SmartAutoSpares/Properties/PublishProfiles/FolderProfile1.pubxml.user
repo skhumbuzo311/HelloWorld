@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\dell\Downloads\Projects\smart auto spares\api\SmartAutoSpares\bin\Release\net5.0\publish\</_PublishTargetUrl>
+    <History>True|2022-10-01T06:29:14.6479684Z;True|2022-10-01T07:44:20.3417228+02:00;True|2022-10-01T07:38:27.5593611+02:00;True|2022-10-01T07:38:05.2942421+02:00;True|2022-10-01T06:53:31.9325022+02:00;True|2022-10-01T06:24:31.4755142+02:00;True|2022-10-01T06:22:24.6845272+02:00;True|2022-10-01T06:21:30.2280359+02:00;True|2022-10-01T05:40:48.6885234+02:00;True|2022-10-01T03:29:40.9278638+02:00;</History>
+  </PropertyGroup>
+</Project>
